@@ -9,6 +9,6 @@ after_success:
 notifications:
   email:
     recipients:
-      - alxdvcv@gmail.com
+      - a123@gmail.fg
     on_success: never
     on_failure: always
